@@ -1,5 +1,10 @@
 # Dot's User Guide
 
+## A quick look
+![ui](Ui.png)
+It also supports resizing and elegant error handling!
+![dot-resized](dot_resized.png)
+
 ## Table of Contents
 
 - [Quick Start](#quick-start)
